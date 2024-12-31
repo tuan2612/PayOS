@@ -1,1 +1,1 @@
-nhiều bug
+sửa docker để test
